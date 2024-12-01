@@ -1,3 +1,10 @@
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -31,3 +38,4 @@ button {
     border: none;
     cursor: pointer;
 }
+
